@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.efs
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, asciidoctor, assertj, awaitility, data, data-jdbc, graalvm, gradle, hamcrest, hibernate-jpa, hibernate-validator, http-client, jackson-databind, jax-rs, jax-rs-security, jdbc-hikari, jib, junit, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, micronaut-aot, micronaut-build, mockito, netty-server, postgres, problem-json, properties, readme, security, security-annotations, security-jwt, shade, testcontainers]
